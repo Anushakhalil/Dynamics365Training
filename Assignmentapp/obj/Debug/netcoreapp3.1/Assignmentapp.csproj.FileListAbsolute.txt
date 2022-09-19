@@ -1,0 +1,14 @@
+C:\Users\Anusha.Khalil\Desktop\Assignmentapp\Assignmentapp\bin\Debug\netcoreapp3.1\Assignmentapp.exe
+C:\Users\Anusha.Khalil\Desktop\Assignmentapp\Assignmentapp\bin\Debug\netcoreapp3.1\Assignmentapp.deps.json
+C:\Users\Anusha.Khalil\Desktop\Assignmentapp\Assignmentapp\bin\Debug\netcoreapp3.1\Assignmentapp.runtimeconfig.json
+C:\Users\Anusha.Khalil\Desktop\Assignmentapp\Assignmentapp\bin\Debug\netcoreapp3.1\Assignmentapp.runtimeconfig.dev.json
+C:\Users\Anusha.Khalil\Desktop\Assignmentapp\Assignmentapp\bin\Debug\netcoreapp3.1\Assignmentapp.dll
+C:\Users\Anusha.Khalil\Desktop\Assignmentapp\Assignmentapp\bin\Debug\netcoreapp3.1\Assignmentapp.pdb
+C:\Users\Anusha.Khalil\Desktop\Assignmentapp\Assignmentapp\obj\Debug\netcoreapp3.1\Assignmentapp.csproj.AssemblyReference.cache
+C:\Users\Anusha.Khalil\Desktop\Assignmentapp\Assignmentapp\obj\Debug\netcoreapp3.1\Assignmentapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anusha.Khalil\Desktop\Assignmentapp\Assignmentapp\obj\Debug\netcoreapp3.1\Assignmentapp.AssemblyInfoInputs.cache
+C:\Users\Anusha.Khalil\Desktop\Assignmentapp\Assignmentapp\obj\Debug\netcoreapp3.1\Assignmentapp.AssemblyInfo.cs
+C:\Users\Anusha.Khalil\Desktop\Assignmentapp\Assignmentapp\obj\Debug\netcoreapp3.1\Assignmentapp.csproj.CoreCompileInputs.cache
+C:\Users\Anusha.Khalil\Desktop\Assignmentapp\Assignmentapp\obj\Debug\netcoreapp3.1\Assignmentapp.dll
+C:\Users\Anusha.Khalil\Desktop\Assignmentapp\Assignmentapp\obj\Debug\netcoreapp3.1\Assignmentapp.pdb
+C:\Users\Anusha.Khalil\Desktop\Assignmentapp\Assignmentapp\obj\Debug\netcoreapp3.1\Assignmentapp.genruntimeconfig.cache
