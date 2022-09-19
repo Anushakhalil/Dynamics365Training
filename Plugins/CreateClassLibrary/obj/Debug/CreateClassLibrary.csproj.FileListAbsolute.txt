@@ -1,0 +1,17 @@
+C:\Users\Anusha.Khalil\source\repos\CreateClassLibrary\bin\Debug\CreateClassLibrary.dll
+C:\Users\Anusha.Khalil\source\repos\CreateClassLibrary\bin\Debug\CreateClassLibrary.pdb
+C:\Users\Anusha.Khalil\source\repos\CreateClassLibrary\obj\Debug\CreateClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Anusha.Khalil\source\repos\CreateClassLibrary\obj\Debug\CreateClassLibrary.dll
+C:\Users\Anusha.Khalil\source\repos\CreateClassLibrary\obj\Debug\CreateClassLibrary.pdb
+C:\Users\Anusha.Khalil\source\repos\CreateClassLibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Anusha.Khalil\source\repos\CreateClassLibrary\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\Anusha.Khalil\source\repos\CreateClassLibrary\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\Anusha.Khalil\source\repos\CreateClassLibrary\bin\Debug\System.Buffers.dll
+C:\Users\Anusha.Khalil\source\repos\CreateClassLibrary\bin\Debug\System.Memory.dll
+C:\Users\Anusha.Khalil\source\repos\CreateClassLibrary\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Anusha.Khalil\source\repos\CreateClassLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Anusha.Khalil\source\repos\CreateClassLibrary\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Anusha.Khalil\source\repos\CreateClassLibrary\bin\Debug\System.Text.Json.dll
+C:\Users\Anusha.Khalil\source\repos\CreateClassLibrary\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Anusha.Khalil\source\repos\CreateClassLibrary\bin\Debug\System.ValueTuple.dll
+C:\Users\Anusha.Khalil\source\repos\CreateClassLibrary\obj\Debug\CreateClassLibrary.csproj.CopyComplete
