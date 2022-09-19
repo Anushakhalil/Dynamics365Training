@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "/l0qqp1PAQFwCrFwgKKsuLcYBioEjRgB3Vp+XQCl2TVX/QB839AKq1TW7PlG24sptUIqlLMMea3Fj80iy/lCZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anusha.Khalil\\source\\repos\\SetFieldPlugin\\SetFieldPlugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anusha.Khalil\\.nuget\\packages\\documentformat.openxml\\2.18.0\\documentformat.openxml.2.18.0.nupkg.sha512",
+    "C:\\Users\\Anusha.Khalil\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\Anusha.Khalil\\.nuget\\packages\\microsoft.crmsdk.coreassemblies\\9.0.2.45\\microsoft.crmsdk.coreassemblies.9.0.2.45.nupkg.sha512",
+    "C:\\Users\\Anusha.Khalil\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\Anusha.Khalil\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Anusha.Khalil\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Anusha.Khalil\\.nuget\\packages\\system.linq\\4.3.0\\system.linq.4.3.0.nupkg.sha512",
+    "C:\\Users\\Anusha.Khalil\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Anusha.Khalil\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Anusha.Khalil\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Anusha.Khalil\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\Anusha.Khalil\\.nuget\\packages\\system.text.json\\6.0.2\\system.text.json.6.0.2.nupkg.sha512",
+    "C:\\Users\\Anusha.Khalil\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\Anusha.Khalil\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
