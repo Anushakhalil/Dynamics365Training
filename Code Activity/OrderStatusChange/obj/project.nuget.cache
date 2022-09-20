@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "CS1GRwGvsF8Tw/r8ETw4E6TYQ0hfmsPM22rm65jeujfJ3U+89m8RswzIqvBnCkGR2PjupEQq5ys0ZD8WIdtHOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anusha.Khalil\\source\\repos\\OrderStatusChange\\OrderStatusChange.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anusha.Khalil\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
+    "C:\\Users\\Anusha.Khalil\\.nuget\\packages\\microsoft.crmsdk.coreassemblies\\9.0.2.42\\microsoft.crmsdk.coreassemblies.9.0.2.42.nupkg.sha512",
+    "C:\\Users\\Anusha.Khalil\\.nuget\\packages\\microsoft.crmsdk.workflow\\9.0.2.45\\microsoft.crmsdk.workflow.9.0.2.45.nupkg.sha512",
+    "C:\\Users\\Anusha.Khalil\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Anusha.Khalil\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Anusha.Khalil\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Anusha.Khalil\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\Anusha.Khalil\\.nuget\\packages\\system.text.encodings.web\\5.0.1\\system.text.encodings.web.5.0.1.nupkg.sha512",
+    "C:\\Users\\Anusha.Khalil\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512",
+    "C:\\Users\\Anusha.Khalil\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\Anusha.Khalil\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
